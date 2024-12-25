@@ -103,13 +103,6 @@ stakeholders, and alert stakeholders immediately of issues.
 ## Network Diagram 
 ![GreenTrustND](https://user-images.githubusercontent.com/72497928/219973576-d238d090-1636-49bb-a6d1-ea7a04fc57c3.png)
 
-## Team Members
-- Mehul Todi
-- Abhiraj Mengade
-- Shashank S M
-- Pranav Agarwal
-- Parth Mittal
-
 ## Setup 
 ### Contract
 1. Touch `root/.env` file as follows:
